@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
+I am a student and aspiring IT professional.
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+This is a place for me to share progress on odd projects as well as thoughts on topics that are interesting to me (and hopefully to you, too).
