@@ -24,14 +24,15 @@ layout: default
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
     {% include navlinks.html %}
-    <script src="https://utteranc.es/client.js"
+  </div>
+
+  <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+
+  <script src="https://utteranc.es/client.js"
         repo="cooperski.github.io"
         issue-term="{{ page.url | relative_url }}"
         theme="minima"
         crossorigin="anonymous"
         async>
 </script>
-  </div>
-
-  <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
